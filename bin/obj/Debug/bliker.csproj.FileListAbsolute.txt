@@ -1,0 +1,20 @@
+C:\Users\mari01n9\source\repos\bliker\bliker\bin\Debug\bliker.exe.config
+C:\Users\mari01n9\source\repos\bliker\bliker\bin\Debug\bliker.exe
+C:\Users\mari01n9\source\repos\bliker\bliker\bin\Debug\bliker.pdb
+C:\Users\mari01n9\source\repos\bliker\bliker\obj\Debug\bliker.csprojAssemblyReference.cache
+C:\Users\mari01n9\source\repos\bliker\bliker\obj\Debug\bliker.Form1.resources
+C:\Users\mari01n9\source\repos\bliker\bliker\obj\Debug\bliker.Properties.Resources.resources
+C:\Users\mari01n9\source\repos\bliker\bliker\obj\Debug\bliker.csproj.GenerateResource.cache
+C:\Users\mari01n9\source\repos\bliker\bliker\obj\Debug\bliker.csproj.CoreCompileInputs.cache
+C:\Users\mari01n9\source\repos\bliker\bliker\obj\Debug\bliker.exe
+C:\Users\mari01n9\source\repos\bliker\bliker\obj\Debug\bliker.pdb
+C:\Users\mari01n9\source\repos\Windowns Forms\bliker\bliker\bin\Debug\bliker.exe.config
+C:\Users\mari01n9\source\repos\Windowns Forms\bliker\bliker\bin\Debug\bliker.exe
+C:\Users\mari01n9\source\repos\Windowns Forms\bliker\bliker\bin\Debug\bliker.pdb
+C:\Users\mari01n9\source\repos\Windowns Forms\bliker\bliker\obj\Debug\bliker.csprojAssemblyReference.cache
+C:\Users\mari01n9\source\repos\Windowns Forms\bliker\bliker\obj\Debug\bliker.Form1.resources
+C:\Users\mari01n9\source\repos\Windowns Forms\bliker\bliker\obj\Debug\bliker.Properties.Resources.resources
+C:\Users\mari01n9\source\repos\Windowns Forms\bliker\bliker\obj\Debug\bliker.csproj.GenerateResource.cache
+C:\Users\mari01n9\source\repos\Windowns Forms\bliker\bliker\obj\Debug\bliker.csproj.CoreCompileInputs.cache
+C:\Users\mari01n9\source\repos\Windowns Forms\bliker\bliker\obj\Debug\bliker.exe
+C:\Users\mari01n9\source\repos\Windowns Forms\bliker\bliker\obj\Debug\bliker.pdb
